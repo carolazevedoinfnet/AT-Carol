@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.infnet.ateurekaserver.AtEurekaServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.888 s - in br.com.infnet.ateurekaserver.AtEurekaServerApplicationTests

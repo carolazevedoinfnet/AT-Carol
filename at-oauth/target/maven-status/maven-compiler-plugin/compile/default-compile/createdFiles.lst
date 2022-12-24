@@ -1,0 +1,9 @@
+br/com/infnet/atoauth/config/SecurityConfig.class
+br/com/infnet/atoauth/AtOauthApplication.class
+br/com/infnet/atoauth/config/AuthorizationServerConfig.class
+br/com/infnet/atoauth/resources/UserResource.class
+br/com/infnet/atoauth/entities/Tipo.class
+br/com/infnet/atoauth/services/UserService.class
+br/com/infnet/atoauth/config/AppConfig.class
+br/com/infnet/atoauth/entities/User.class
+br/com/infnet/atoauth/feignclients/UserFeignClient.class

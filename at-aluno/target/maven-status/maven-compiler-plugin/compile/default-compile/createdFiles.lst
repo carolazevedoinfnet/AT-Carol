@@ -1,0 +1,4 @@
+br/com/infnet/ataluno/resources/AlunoResource.class
+br/com/infnet/ataluno/entities/Aluno.class
+br/com/infnet/ataluno/repositories/AlunoRepository.class
+br/com/infnet/ataluno/AtAlunoApplication.class

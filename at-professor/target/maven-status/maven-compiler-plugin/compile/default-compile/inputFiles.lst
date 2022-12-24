@@ -1,0 +1,7 @@
+/Users/carol/Documents/workspace-spring-tool-suite-4-4.17.0.RELEASE/at-professor/src/main/java/br/com/infnet/atprofessor/feignclients/AlunoFeignClient.java
+/Users/carol/Documents/workspace-spring-tool-suite-4-4.17.0.RELEASE/at-professor/src/main/java/br/com/infnet/atprofessor/resources/ProfessorResource.java
+/Users/carol/Documents/workspace-spring-tool-suite-4-4.17.0.RELEASE/at-professor/src/main/java/br/com/infnet/atprofessor/services/ProfessorService.java
+/Users/carol/Documents/workspace-spring-tool-suite-4-4.17.0.RELEASE/at-professor/src/main/java/br/com/infnet/atprofessor/config/AppConfig.java
+/Users/carol/Documents/workspace-spring-tool-suite-4-4.17.0.RELEASE/at-professor/src/main/java/br/com/infnet/atprofessor/entities/Professor.java
+/Users/carol/Documents/workspace-spring-tool-suite-4-4.17.0.RELEASE/at-professor/src/main/java/br/com/infnet/atprofessor/AtProfessorApplication.java
+/Users/carol/Documents/workspace-spring-tool-suite-4-4.17.0.RELEASE/at-professor/src/main/java/br/com/infnet/atprofessor/entities/Aluno.java

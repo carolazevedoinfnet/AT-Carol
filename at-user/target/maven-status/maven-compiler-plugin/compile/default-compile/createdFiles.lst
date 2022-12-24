@@ -1,0 +1,6 @@
+br/com/infnet/atuser/repositories/UserRepository.class
+br/com/infnet/atuser/AtUserApplication.class
+br/com/infnet/atuser/entities/User.class
+br/com/infnet/atuser/config/AppConfig.class
+br/com/infnet/atuser/resources/UserResource.class
+br/com/infnet/atuser/entities/Tipo.class

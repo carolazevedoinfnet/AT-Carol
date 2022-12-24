@@ -1,0 +1,7 @@
+br/com/infnet/atprofessor/entities/Aluno.class
+br/com/infnet/atprofessor/AtProfessorApplication.class
+br/com/infnet/atprofessor/config/AppConfig.class
+br/com/infnet/atprofessor/resources/ProfessorResource.class
+br/com/infnet/atprofessor/feignclients/AlunoFeignClient.class
+br/com/infnet/atprofessor/entities/Professor.class
+br/com/infnet/atprofessor/services/ProfessorService.class

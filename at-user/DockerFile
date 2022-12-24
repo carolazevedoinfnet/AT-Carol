@@ -1,0 +1,4 @@
+FROM openjdk:11
+VOLUME /tmp
+ADD ./target/at-user-0.0.1-SNAPSHOT.jar at-user.jar
+ENTRYPOINT ["java","-jar”,”/at-user.jar"]
